@@ -108,8 +108,6 @@ N/A
 
 ## 👥 Authors <a name="authors"></a>
 
-> Mention all of the collaborators of this project.
-
 👤 **Author Glauber Bannwart**
 
 - GitHub: [@cancelei](https://github.com/cancelei)
@@ -138,7 +136,7 @@ N/A
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
-Ed and Jav helped me in concluding this project, they are part of my current working and standup teams.
+N/A.
 
 ## ❓ FAQ (OPTIONAL) <a name="faq"></a>
 
